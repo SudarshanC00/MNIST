@@ -14,7 +14,7 @@ This project implements a machine learning model to classify handwritten digits 
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/MNIST-Digit-Classification.git
+   git clone https://github.com/SudarshanC00/MNIST-Digit-Classification.git
    ```
 2. Navigate to the project directory:
    ```bash
